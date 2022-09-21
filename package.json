@@ -7,11 +7,12 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Brian-Lucero",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Brian-Lucero"
+	}
+	
 	
 	
 }
