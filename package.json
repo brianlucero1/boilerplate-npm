@@ -4,7 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Brian,Lucero",
+	"author": "brian-lucero",
 	"scripts": {
 		"start": "node server.js"
 	},
@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	
 	
 }
